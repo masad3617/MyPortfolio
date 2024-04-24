@@ -10,7 +10,7 @@ export default function Home() {
           <div className="flex items-center"> {/* Added flex container */}
             <h1 className="text-[24px] sm:text-[30px] md:text-[30px] text-white font-semibold">
               Hello, it's Me{" :)"}
-              <span className="text-[30px] sm:text-[50px] md:text-[60px] text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500" style={{ whiteSpace: "nowrap" }}>
+              <span className="text-[30px] sm:text-[50px] md:text-[60px] text bg-clip-text bg-gradient-to-r from-purple-500 to-red-500" style={{ whiteSpace: "nowrap" }}>
                 {" "}
                 <br />
                 Mohd Asad
